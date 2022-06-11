@@ -1,6 +1,5 @@
-- 👋 Hi, I’m @ytro
 - Make sure to check out my pinned repos!
-- You'll find some of the projects I've done by myself, including code in C#, Python, Java, PHP and more! 
+- Here you'll find some of the projects I've contributed to or done fully in solo, in languages such as C#, Python, Java, PHP and more! 
 
 <!---
 ytro/ytro is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
